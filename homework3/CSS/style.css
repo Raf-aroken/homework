@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+table{
+    margin: 15px 10px;
+    font-family:sans-serif;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+caption{
+    font-weight: 700;
+}
+th,td,caption{
+    border: 1.2px solid #000;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+caption{
+    border-bottom: none;
+}
+.color-red{
+    color:red ;}
